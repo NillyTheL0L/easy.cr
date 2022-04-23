@@ -72,3 +72,15 @@ end
 ## Contributors
 
 - [NillyTheL0L](https://github.com/nillythel0l) - creator and maintainer
+
+```sh
+app/
+ shard.yml
+ source/
+  app/
+   app.cr
+  defs/
+   defs.cr
+  imports/
+   imports.cr
+```
