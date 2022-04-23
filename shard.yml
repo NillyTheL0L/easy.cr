@@ -1,0 +1,17 @@
+name: easycr
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  easycr:
+    main: src/easycr.cr
+
+dependencies:
+  gtk4:
+    github: hugopl/gtk4.cr
+
+crystal: 1.3.2
+
+license: MIT

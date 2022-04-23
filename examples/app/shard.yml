@@ -1,0 +1,18 @@
+name: app
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  app:
+    main: source/app/app.cr
+
+dependencies:
+  cor:
+    github: watzon/cor
+
+crystal: 1.3.2
+
+license: MIT
+
